@@ -1,4 +1,4 @@
-# Submission: Evaluasi Pembelajaran Akhir: Belajar Dasar Pemrograman JavaScript
+# Submission Evaluasi Pembelajaran Akhir: Belajar Dasar Pemrograman JavaScript
 
 ## Deskripsi
 Dalam submission ini, terdapat 3 tugas coding yang wajib dikerjakan dan 4 tugas coding yang opsional dikerjakan agar mendapatkan nilai yang baik. Silakan unduh proyek di bawah ini untuk mendapatkan tugas coding tersebut.
